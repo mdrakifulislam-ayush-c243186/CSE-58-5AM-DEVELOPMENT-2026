@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MD Rakiful Islam | Portfolio</title>
+
+<style>
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, Helvetica, sans-serif;
+}
+body{
+    background:#eef2f7;
+    color:#333;
+}
+.container{
+    width:90%;
+    max-width:1000px;
+    margin:30px auto;
+    background:#fff;
+    border-radius:10px;
+    overflow:hidden;
+    box-shadow:0 5px 15px rgba(0,0,0,.15);
+}
+header{
+    background:#16324F;
+    color:#fff;
+    text-align:center;
+    padding:30px 20px;
+}
+header h1{
+    font-size:36px;
+}
+header p{
+    margin-top:8px;
+    font-size:16px;
+}
+section{
+    padding:25px 30px;
+}
+h2{
+    color:#16324F;
+    border-bottom:2px solid #ddd;
+    padding-bottom:8px;
+    margin-bottom:15px;
+}
+.info p{
+    margin:8px 0;
+}
+table{
+    width:100%;
+    border-collapse:collapse;
+    margin-top:10px;
+}
+table, th, td{
+    border:1px solid #ccc;
+}
+th{
+    background:#16324F;
+    color:white;
+}
+th, td{
+    padding:10px;
+    text-align:left;
+}
+ul{
+    margin-left:20px;
+    line-height:1.8;
+}
+footer{
+    background:#16324F;
+    color:white;
+    text-align:center;
+    padding:15px;
+}
+</style>
+
+</head>
+<body>
+
+<div class="container">
+
+<header>
+<h1>MD RAKIFUL ISLAM</h1>
+<p>Computer Science & Engineering Undergraduate</p>
+<p>Software Enthusiast</p>
+</header>
+
+<section>
+<h2>Personal Information</h2>
+<div class="info">
+<p><strong>Phone:</strong> +880 1938-469655</p>
+<p><strong>Email:</strong> mdrakifulislam666@gmail.com</p>
+<p><strong>Address:</strong> Chattogram, Bangladesh</p>
+<p><strong>GitHub:</strong> github.com/yourusername</p>
+<p><strong>LinkedIn:</strong> linkedin.com/in/yourusername</p>
+</div>
+</section>
+
+<section>
+<h2>Career Objective</h2>
+<p>
+Motivated Computer Science and Engineering undergraduate with strong analytical ability,
+problem-solving skills, and a passion for software development. Seeking an opportunity
+to contribute to innovative projects and grow as a software engineer in a dynamic organization.
+</p>
+</section>
+
+<section>
+<h2>Education</h2>
+<table>
+<tr>
+<th>Degree</th>
+<th>Institution</th>
+<th>Year</th>
+</tr>
+
+<tr>
+<td>B.Sc. in Computer Science & Engineering (Running)</td>
+<td>International Islamic University Chittagong (IIUC)</td>
+<td>Running</td>
+</tr>
+
+<tr>
+<td>Higher Secondary Certificate (HSC)</td>
+<td>Kumira College, Chattogram</td>
+<td>2023 (GPA 4.17/5.00)</td>
+</tr>
+
+<tr>
+<td>Secondary School Certificate (SSC)</td>
+<td>CDA Public High School & College</td>
+<td>2021 (GPA 4.50/5.00)</td>
+</tr>
+
+</table>
+</section>
+
+<section>
+<h2>Technical Skills</h2>
+<ul>
+<li><strong>Programming:</strong> C, C++, Java, Python</li>
+<li><strong>Web Development:</strong> HTML, CSS, JavaScript (Basic)</li>
+<li><strong>Database:</strong> MySQL (Basic)</li>
+<li><strong>Tools:</strong> Git/GitHub, MS Office, Windows 7/10</li>
+<li><strong>Others:</strong> Problem-solving, Debugging, Internet Research</li>
+</ul>
+</section>
+
+<section>
+<h2>Projects</h2>
+<ul>
+<li>
+<b>Library Management System (C++)</b><br>
+Designed a console-based program to manage books, users, and borrowing records.
+</li>
+
+<li>
+<b>Personal Portfolio Website</b><br>
+Created a responsive portfolio site using HTML, CSS, and JavaScript.
+</li>
+</ul>
+</section>
+
+<section>
+<h2>Extracurricular Activities</h2>
+<ul>
+<li>Member, IIUC Computer Club</li>
+<li>Participated in Inter-college Programming Contests</li>
+</ul>
+</section>
+
+<section>
+<h2>Languages</h2>
+<ul>
+<li><b>Bengali:</b> Native</li>
+<li><b>English:</b> Good reading, writing, and speaking ability</li>
+</ul>
+</section>
+
+<section>
+<h2>Personal Details</h2>
+<table>
+
+<tr>
+<td><strong>Father's Name</strong></td>
+<td>Mohammed Saiful Islam</td>
+</tr>
+
+<tr>
+<td><strong>Mother's Name</strong></td>
+<td>Shamima Akther Sumi</td>
+</tr>
+
+<tr>
+<td><strong>Date of Birth</strong></td>
+<td>09 July 2005</td>
+</tr>
+
+<tr>
+<td><strong>Gender</strong></td>
+<td>Male</td>
+</tr>
+
+<tr>
+<td><strong>Marital Status</strong></td>
+<td>Unmarried</td>
+</tr>
+
+<tr>
+<td><strong>Nationality</strong></td>
+<td>Bangladeshi</td>
+</tr>
+
+</table>
+</section>
+
+<footer>
+© 2026 MD Rakiful Islam | Personal Portfolio
+</footer>
+
+</div>
+
+</body>
+</html>
